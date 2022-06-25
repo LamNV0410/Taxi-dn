@@ -1,4 +1,4 @@
-const phoneNumber = '0356894547'
+const phoneNumber = '0898227585'
 Array.from(document.getElementsByClassName('custom-tel-telelphone'))
     .forEach(node => node.href = `tel:${phoneNumber}`)
 
